@@ -6,5 +6,7 @@ export default defineConfig({
   plugins: [react()],
   server: {
     host: true,
+    base: '/Netflix-Web-App/', // replace with your repo name
+  plugins: [react()],
   }
 })
